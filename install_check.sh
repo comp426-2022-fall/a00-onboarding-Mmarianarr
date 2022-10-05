@@ -1,3 +1,5 @@
+#!/bin/bash
+
 VAR_UNAME="$(uname -a)"
 VAR_NODE_VERSION="$(node -v)"
 VAR_NODE_WHICH="$(which node)"
